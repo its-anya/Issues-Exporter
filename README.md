@@ -1,6 +1,6 @@
 # GitHub Issues Exporter (JSON + CSV)
 
-Ek simple tool jo GitHub repo ke issues (aur unke saare comments) export karta hai — JSON aur Excel-friendly CSV dono formats mein.
+A simple tool that exports a GitHub repository’s issues and all their comments in both JSON and Excel-friendly CSV formats.
 
 - No hardcoded username/repo: pass via flags or environment variables
 - Exports all issues or filter by state (open/closed/all)
@@ -115,3 +115,4 @@ The referenced Stack Overflow content is licensed under CC BY-SA; see their post
 ## License
 
 MIT — do as you like. Contributions welcome.
+
